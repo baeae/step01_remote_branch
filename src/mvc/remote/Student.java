@@ -6,6 +6,7 @@ public class Student {
 	private String name;
 	private String addr;
 	private int age;
+	public int nameNo;
 
 	
 
