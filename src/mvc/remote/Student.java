@@ -7,6 +7,8 @@ public class Student {
 	private String addr;
 	private int age;
 	public int nameNo;
+	private int num;
+
 
 	
 
